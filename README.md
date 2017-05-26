@@ -1,2 +1,0 @@
-# GunFight
-Game in C#
